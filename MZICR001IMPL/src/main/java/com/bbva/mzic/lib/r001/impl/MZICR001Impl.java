@@ -14,7 +14,7 @@ public class MZICR001Impl extends MZICR001Abstract {
 	 * The execute method...
 	 */
 	@Override
-	public void execute() {
+	public void executeMe() {
 		// TODO - Implementation of business logic
 	}
 }
